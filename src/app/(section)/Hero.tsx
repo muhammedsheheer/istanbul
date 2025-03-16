@@ -59,7 +59,7 @@ const Hero = ({}) => {
               TO INSTANBUL
             </h1>
             <div className="ml-[2%] flex flex-col items-center justify-center gap-3">
-              <Link href="/menu">
+              <Link href="/table-booking">
                 <Button className="hero-button flex items-center justify-center gap-3 rounded-none px-7 py-7 uppercase">
                   Order now
                 </Button>
